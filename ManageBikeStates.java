@@ -1,4 +1,4 @@
-package Assignment_2.Bike_Management_Subsystem;
+package com.example;
 
 
 public class ManageBikeStates {
